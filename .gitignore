@@ -1,0 +1,13 @@
+# Ignore generated documentaion 
+_site
+
+# MacOS
+.DS_Store
+
+build
+install
+log
+AWSIM
+mapfile
+
+result.json
